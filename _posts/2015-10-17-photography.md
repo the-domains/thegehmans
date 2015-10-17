@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T02:09:46.374Z'
-dateModified: '2015-10-17T02:00:12.385Z'
+datePublished: '2015-10-17T02:19:44.427Z'
+dateModified: '2015-10-17T02:13:34.424Z'
 title: Photography
 sourcePath: _posts/2015-10-17-photography.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: photography/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Photography
