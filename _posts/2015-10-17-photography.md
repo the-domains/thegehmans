@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: A taste of our work
-datePublished: '2015-10-17T02:53:16.341Z'
-dateModified: '2015-10-17T02:53:11.000Z'
+datePublished: '2015-10-17T03:18:07.112Z'
+dateModified: '2015-10-17T03:18:03.160Z'
 title: Photography
 sourcePath: _posts/2015-10-17-photography.md
 published: true
