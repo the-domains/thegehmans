@@ -1,4 +1,4 @@
-name: null
+name: TheGehmans
 favicon: null
 layout_spectrum: 0.98649185243994
 typography_spectrum: 0.9275767079088837
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.04209005646407604
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#808080'
+    - '#afafaf'
+    - '#823215'
+  brandStrength: 1
   lightness: 0.2789315495174378
   saturation: 0.45263096666894853
   rhythmicContrast: 0.649422632297501
