@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T03:21:35.521Z'
-dateModified: '2015-10-17T03:21:29.946Z'
+datePublished: '2015-10-17T03:22:08.458Z'
+dateModified: '2015-10-17T03:22:05.187Z'
 author: []
 title: 'Home school #ftw'
 sourcePath: _posts/2015-10-17-home-school-ftw.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Home school \#ftw
-![The kids were in the zone today&excl; &num;homeschool](https://pbs.twimg.com/media/COa38ZMUcAAuX6K.jpg:large)
+![The kids were in the zone today! #homeschool](https://pbs.twimg.com/media/COa38ZMUcAAuX6K.jpg:large)
