@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T02:19:44.427Z'
-dateModified: '2015-10-17T02:13:34.424Z'
-title: Photography
+datePublished: '2015-10-17T02:22:12.113Z'
+dateModified: '2015-10-17T02:22:01.404Z'
+title: "PhotographyWe spent twelve years in the world of photography, specializing in weddings and families. While we thorough enjoyed the years we were in it full tilt, we are excited to publicly announce that we have pushed the pause button. \_We are no longer booking weddings, and are limiting family and senior sessions to only a few sessions a year.\_"
 sourcePath: _posts/2015-10-17-photography.md
 published: true
 authors: []
@@ -21,13 +21,7 @@ publisher:
 _type: Blurb
 
 ---
-# Photography
-
-We spent twelve years in the world of photography, specializing in weddings and families. While we thorough enjoyed the years we were in it full tilt, we are excited to publicly announce that we have pushed the pause button.  We are no longer booking weddings, and are limiting family and senior sessions to only a few sessions a year. 
-
-# Booking
-
-If you're interested in booking us for a family session, please send an email to rodneygehman(at)gmail.com. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f95ab8dd-db5e-4be3-93eb-5908b41b2207.jpg)
+# PhotographyWe spent twelve years in the world of photography, specializing in weddings and families. While we thorough enjoyed the years we were in it full tilt, we are excited to publicly announce that we have pushed the pause button.  We are no longer booking weddings, and are limiting family and senior sessions to only a few sessions a year. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f95ab8dd-db5e-4be3-93eb-5908b41b2207.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47fe5c3e-81a9-4585-9af2-7fa1debe172c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49705460-d2c9-49d9-93c6-eba32a8c63a8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b7e6634-36ab-49b0-a27c-f8739150fbd9.jpg)
