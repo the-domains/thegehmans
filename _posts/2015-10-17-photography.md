@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-17T02:22:12.113Z'
-dateModified: '2015-10-17T02:22:01.404Z'
+description: A taste of our work
+datePublished: '2015-10-17T02:23:50.672Z'
+dateModified: '2015-10-17T02:23:24.138Z'
 title: "PhotographyWe spent twelve years in the world of photography, specializing in weddings and families. While we thorough enjoyed the years we were in it full tilt, we are excited to publicly announce that we have pushed the pause button. \_We are no longer booking weddings, and are limiting family and senior sessions to only a few sessions a year.\_"
 sourcePath: _posts/2015-10-17-photography.md
 published: true
