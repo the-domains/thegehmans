@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T03:55:23.186Z'
-dateModified: '2015-10-17T03:55:20.522Z'
+datePublished: '2015-10-17T04:00:33.282Z'
+dateModified: '2015-10-17T04:00:27.718Z'
 author: []
 title: House Church
 sourcePath: _posts/2015-10-17-house-church.md
@@ -24,4 +24,5 @@ _type: Article
 
 ---
 # House Church
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08a8cb65-e0f9-4890-9f98-48dbc35f927d.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26a1d0c0-5b4f-4cb5-bbbd-c4e6ea5b93aa.jpg)
