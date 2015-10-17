@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rodney + Jodi Gehman]]></title>
         <description><![CDATA[Rodney + Jodi Gehman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thegehmans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 01:56:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 17 Oct 2015 02:09:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thegehmans/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Photography]]></title>
             <description><![CDATA[<article><h1>Photography</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f95ab8dd-db5e-4be3-93eb-5908b41b2207.jpg"></article>]]></description>
-            <link>undefinedphotography/index.html</link>
+            <link>https://thegrid.ai/thegehmans/photography/index.html</link>
             <guid isPermaLink="false">ba305ccb-a884-4063-a7ec-c17ef915f1c2</guid>
-            <pubDate>Sat, 17 Oct 2015 01:54:46 GMT</pubDate>
+            <pubDate>Sat, 17 Oct 2015 02:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
