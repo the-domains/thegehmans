@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:97774548-d0ec-4bcb-896f-b5107bd397a1'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T03:04:50.422Z'
-dateModified: '2015-10-17T02:53:48.954Z'
+datePublished: '2015-10-17T03:21:35.521Z'
+dateModified: '2015-10-17T03:21:29.946Z'
 author: []
 title: 'Home school #ftw'
 sourcePath: _posts/2015-10-17-home-school-ftw.md
