@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T01:54:46.281Z'
-dateModified: '2015-10-17T01:54:23.886Z'
+datePublished: '2015-10-17T02:09:46.374Z'
+dateModified: '2015-10-17T02:00:12.385Z'
 title: Photography
+sourcePath: _posts/2015-10-17-photography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-17-photography.md
-published: true
 url: photography/index.html
 _type: Article
 
