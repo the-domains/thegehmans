@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: A taste of our work
-datePublished: '2015-10-17T02:47:08.742Z'
-dateModified: '2015-10-17T02:46:56.553Z'
+datePublished: '2015-10-17T02:47:52.491Z'
+dateModified: '2015-10-17T02:47:48.269Z'
 title: Photography
 sourcePath: _posts/2015-10-17-photography.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: photography/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Photography
