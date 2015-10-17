@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rodney + Jodi Gehman]]></title>
+        <description><![CDATA[Rodney + Jodi Gehman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 17 Oct 2015 02:51:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home school #ftw]]></title>
+            <description><![CDATA[<article><h1>Home school #ftw</h1><p>The kids were in the zone today! #homeschool</p><img src="https://pbs.twimg.com/media/COa38ZMUcAAuX6K.jpg:large"></article>]]></description>
+            <link>undefinedhome-school-ftw/index.html</link>
+            <guid isPermaLink="false">5f6dde8c-b020-40ff-9525-e1c5380a39f0</guid>
+            <pubDate>Sat, 17 Oct 2015 02:51:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
