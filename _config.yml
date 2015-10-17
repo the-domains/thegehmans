@@ -1,29 +1,41 @@
-name: TheGehmans
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.72339
 title: Rodney + Jodi Gehman
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.609319
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#808080'
     - '#afafaf'
     - '#823215'
-  brandStrength: 1
-  lightness: 0.3125
-  saturation: 0.6875
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: TheGehmans
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.72339
+layout_spectrum: 1
