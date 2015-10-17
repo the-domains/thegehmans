@@ -1,17 +1,23 @@
 ---
-description: ''
-author: []
-datePublished: '2015-10-17T03:46:28.363Z'
-publisher:
-  domain: ''
-  name: ''
-title: Patio nights
-dateModified: '2015-10-17T03:44:33.785Z'
-sourcePath: _posts/2015-10-17-patio-nights.md
-published: true
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-10-17T03:55:39.072Z'
+dateModified: '2015-10-17T03:51:58.274Z'
+author: []
+title: Patio nights
+sourcePath: _posts/2015-10-17-patio-nights.md
+published: true
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 url: patio-nights/index.html
 _context: 'http://schema.org'
 _type: Article
