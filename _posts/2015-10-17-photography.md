@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: A taste of our work
-datePublished: '2015-10-17T02:47:52.491Z'
-dateModified: '2015-10-17T02:47:48.269Z'
+datePublished: '2015-10-17T02:53:16.341Z'
+dateModified: '2015-10-17T02:53:11.000Z'
 title: Photography
 sourcePath: _posts/2015-10-17-photography.md
 published: true
@@ -21,6 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-# Photography
-
-We spent twelve years in the world of photography, specializing in weddings and families. While we thorough enjoyed the years we were in it full tilt, we are excited to publicly announce that we have pushed the pause button.  We are no longer booking weddings, and are limiting family and senior sessions to only a few sessions a year.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4821939a-17aa-4d4e-80fc-10026fe3e3c6.jpg)
