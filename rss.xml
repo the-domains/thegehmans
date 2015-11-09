@@ -4,7 +4,7 @@
         <description><![CDATA[The Gehmans]]></description>
         <link>https://thegrid.ai/thegehmans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 17:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 17:04:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegehmans/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WHO WE ARE]]></title>
@@ -14,11 +14,25 @@
             <pubDate>Sat, 17 Oct 2015 03:56:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Must be reading day]]></title>
+            <description><![CDATA[<article><h1>Must be reading day</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb22d52-7b9b-48b7-a79e-e81c153226a4.png"></article>]]></description>
+            <link>urn:uuid:49596b83-f3bc-4afa-8deb-d038f0d01946</link>
+            <guid isPermaLink="false">2336bdc0-8a70-41aa-ac77-1bbbb85166d2</guid>
+            <pubDate>Sat, 17 Oct 2015 03:55:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67248c97-fcf3-4fdb-904a-ab9681c94f27.png" alt="" title="">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/67248c97-fcf3-4fdb-904a-ab9681c94f27.png</link>
             <guid isPermaLink="false">2c5989d6-1582-4f09-a18b-1ee6d3c9ad7a</guid>
             <pubDate>Sat, 17 Oct 2015 03:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patio nights]]></title>
+            <description><![CDATA[<article><h1>Patio nights</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca26adb4-2c88-4f70-ba6a-3cd58b36e4e7.png"></article>]]></description>
+            <link>https://thegrid.ai/thegehmans/patio-nights/index.html</link>
+            <guid isPermaLink="false">0dfe4c3e-bf8b-4f13-98e2-47fa7916b16d</guid>
+            <pubDate>Sat, 17 Oct 2015 03:55:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Home school #ftw]]></title>
