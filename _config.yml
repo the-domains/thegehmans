@@ -1,23 +1,40 @@
-name: The Gehmans
-favicon: null
-layout_spectrum: null
-typography_spectrum: null
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: null
-  lightness: null
-  saturation: null
-  rhythmicContrast: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2903226
+  brandStrength: 1
+  lightness: 0.6523297
+  brandColors:
+    - '#D05B1F'
+    - '#D0C5B5'
+    - '#1F1614'
+    - '#6E7F9A'
+    - '#FFFFFF'
+  rhythmicContrast: 0.6792115
+typography_spectrum: 0.5
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3315412
+favicon: null
+name: The Gehmans
