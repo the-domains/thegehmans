@@ -4,7 +4,7 @@
         <description><![CDATA[The Gehmans]]></description>
         <link>https://thegrid.ai/thegehmans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 22:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 22:48:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegehmans/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WHO WE ARE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thegehmans/who-we-are/index.html</link>
             <guid isPermaLink="false">123d07f0-8ed4-4f1f-9119-253db3eaa118</guid>
             <pubDate>Tue, 10 Nov 2015 05:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roasting Coffee]]></title>
+            <description><![CDATA[<article><h1>Roasting Coffee</h1><p>Roasting coffee is fun, enjoyable, and surprisingly easy. You might not achieve the "perfect" roast on your first try, but you should be able to consistently roast a drinkable coffee with some practice. All you need are some basic supplies, green coffee and a little knowledge.</p><img src="https://driftaway.coffee/wp-content/uploads/2015/08/shutterstock_182457260.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegehmans/roasting-coffee/index.html</link>
+            <guid isPermaLink="false">19acb04c-aa94-43cf-90ad-6a7a2367d152</guid>
+            <pubDate>Sat, 28 Nov 2015 22:47:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pour Overs]]></title>
