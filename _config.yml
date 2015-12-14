@@ -1,7 +1,7 @@
 name: The Gehmans
 favicon: null
-layout_spectrum: 0.5232975
-typography_spectrum: 0.5
+layout_spectrum: 0.98645
+typography_spectrum: 0.46089
 collections:
   - index:
       path: /
