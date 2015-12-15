@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T00:54:36.290Z'
-dateModified: '2015-12-14T23:17:09.996Z'
+datePublished: '2015-12-15T00:58:34.443Z'
+dateModified: '2015-12-15T00:58:30.385Z'
 author: []
-title: Roasting Coffee
+title: Coffee
 sourcePath: _posts/2015-11-28-roasting-coffee.md
 published: true
 authors: []
@@ -23,13 +23,11 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Roasting Coffee
+# Coffee
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3693c0fa034e507b551a2e48552db1215cbc2116.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6acd806c8bedddefbeaeaa41d1018deff1c442d.jpg" /></article>
 
-# COFFEE
-
-I remember the first time I drank coffee.  It was at a Christmas banquet of some kind; I think I was 17 or so.  I asked the waiter for a coffee, and felt like this was part of my "coming-of-age" story.  Upon first sip, I immediately questioned my choice, and wondered how anyone could ever like this stuff.  But I figured it must be an acquired taste, and my plans were to acquire it! 
+# 
 
 20+ years later, I've come to realize that coffee is not just a drink. It is an experience. There is so much more to coffee than the black water I drank that day.  These days, I drink ALOT of coffee, but it's not for the energy kick or the caffeine buzz.  
 
